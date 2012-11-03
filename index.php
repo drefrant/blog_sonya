@@ -15,7 +15,7 @@
 					<?php echo strip_tags(nl2br($sel_page['content']), "<b><br><p><a>"); ?>
 				</div>
 			<?php } else { ?>
-				<h2>Welcome to Widget Corp</h2>
+				<h2>Welcome to Sonya Blog</h2>
 			<?php } ?>
 		</td>
 	</tr>
